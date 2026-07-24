@@ -1,4 +1,6 @@
-**BetterDiscord** is the most popular free client mod for Discord that lets you install custom themes, plugins, and CSS tweaks — including the ability to show hidden channels, use the see-all-channels plugin, and deeply restyle the Discord UI. Works on Windows, macOS, Linux, and has community ports for mobile and Android.
+# **BetterDiscord** 
+
+is the most popular free client mod for Discord that lets you install custom themes, plugins, and CSS tweaks — including the ability to show hidden channels, use the see-all-channels plugin, and deeply restyle the Discord UI. Works on Windows, macOS, Linux, and has community ports for mobile and Android.
 
 If you're deciding between **BetterDiscord or Vencord**, both are excellent. BetterDiscord has the larger plugin and theme library built up over years; Vencord is newer and more lightweight. Many users install both. This repository ships the latest BetterDiscord release, fully compatible with the current Discord stable version.
 
